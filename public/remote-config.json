@@ -2,13 +2,13 @@
   "min_version": "1.0.0",
   "ios_min_version": "1.4.1",
   "android_min_version": "1.0.0",
-  "ios_latest_version": "1.4.1",
+  "ios_latest_version": "1.4.7",
   "android_latest_version": "1.0.0",
   "update_description": {
-    "zh-TW": "【新功能】\n• 認識 Chunky，你的全新英文學習夥伴\n• 新增「每日一句」，簡單實用的英文表達\n• 收藏功能新增「複習」\n\n【修復】\n• 修復已知問題",
-    "zh-CN": "【新功能】\n• 认识 Chunky，你的全新英文学习伙伴\n• 新增“每日一句”，简单实用的英文表达\n• 收藏功能新增“复习”\n\n【修复】\n• 修复已知问题",
-    "en": "【New】\n• Meet Chunky, your new English learning buddy\n• Added Daily Phrase with simple, useful English expressions\n• Added a \"Review\" feature to Favorites\n\n【Bug Fixes】\n• Fixed known issues",
-    "ja": "【新機能】\n• あなたの新しい英語学習パートナー、Chunkyに会おう\n• シンプルで実用的な英語表現の「デイリーフレーズ」を追加\n• お気に入りに「復習」機能を追加\n\n【修正】\n• 既知の不具合を修正",
-    "ko": "【새 기능】\n• 당신의 새로운 영어 학습 친구, Chunky를 만나보세요\n• 간단하고 실용적인 영어 표현 \"데일리 프레이즈\" 추가\n• 즐겨찾기에 \"복습\" 기능 추가\n\n【수정】\n• 알려진 버그 수정"
+    "zh-TW": "嗨～阿塊正式跟大家見面了！\n\n• 複習改成積分制，進度看得更清楚\n• 複習題目全面優化\n• 更新 UI 與 Logo\n• 新增「飯店」主題\n• 新增排序功能",
+    "zh-CN": "嗨～阿块正式跟大家见面了！\n\n• 复习改成积分制，进度看得更清楚\n• 复习题目全面优化\n• 更新 UI 与 Logo\n• 新增“饭店”主题\n• 新增排序功能",
+    "en": "Say hello to Chunky — officially here!\n\n• Review now uses a points system, so your progress is clearer\n• All review questions have been improved\n• Refreshed UI and new logo\n• New \"Hotel\" topic\n• Added sorting",
+    "ja": "Chunkyが正式に登場しました！\n\n• 復習がポイント制になり、進捗がひと目でわかります\n• 復習問題を全面的に改善\n• UIとロゴを刷新\n• 「ホテル」トピックを追加\n• 並び替え機能を追加",
+    "ko": "Chunky가 정식으로 인사드립니다!\n\n• 복습이 포인트 제도로 바뀌어 진도를 더 명확하게 확인할 수 있어요\n• 복습 문제 전면 개선\n• UI와 로고 업데이트\n• \"호텔\" 주제 추가\n• 정렬 기능 추가"
   }
 }
