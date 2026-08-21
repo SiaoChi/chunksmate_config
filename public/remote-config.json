@@ -2,13 +2,13 @@
   "min_version": "1.0.0",
   "ios_min_version": "1.4.1",
   "android_min_version": "1.0.0",
-  "ios_latest_version": "1.4.7",
+  "ios_latest_version": "2.0.0",
   "android_latest_version": "1.0.0",
   "update_description": {
-    "zh-TW": "嗨～阿塊正式跟大家見面了！\n\n• 複習改成積分制，進度看得更清楚\n• 複習題目全面優化\n• 更新 UI 與 Logo\n• 新增「飯店」主題\n• 新增排序功能",
-    "zh-CN": "嗨～阿块正式跟大家见面了！\n\n• 复习改成积分制，进度看得更清楚\n• 复习题目全面优化\n• 更新 UI 与 Logo\n• 新增“饭店”主题\n• 新增排序功能",
-    "en": "Say hello to Chunky — officially here!\n\n• Review now uses a points system, so your progress is clearer\n• All review questions have been improved\n• Refreshed UI and new logo\n• New \"Hotel\" topic\n• Added sorting",
-    "ja": "Chunkyが正式に登場しました！\n\n• 復習がポイント制になり、進捗がひと目でわかります\n• 復習問題を全面的に改善\n• UIとロゴを刷新\n• 「ホテル」トピックを追加\n• 並び替え機能を追加",
-    "ko": "Chunky가 정식으로 인사드립니다!\n\n• 복습이 포인트 제도로 바뀌어 진도를 더 명확하게 확인할 수 있어요\n• 복습 문제 전면 개선\n• UI와 로고 업데이트\n• \"호텔\" 주제 추가\n• 정렬 기능 추가"
+    "zh-TW": "ChunksEnglish 正式迎來練習時代！好好練習，英文突飛猛進！\n\n• 所有主題、單字都能用「練習」來回想\n• 不熟悉的內容可以另外收藏，集中練習\n• Pro 用戶新增雲端圖書館，新主題持續更新",
+    "zh-CN": "ChunksEnglish 正式迎来练习时代！好好练习，英文突飞猛进！\n\n• 所有主题、单词都能用“练习”来回想\n• 不熟悉的内容可以另外收藏，集中练习\n• Pro 用户新增云端图书馆，新主题持续更新",
+    "en": "ChunksEnglish enters the Practice era! Practice well and watch your English take off!\n\n• Recall every topic and word with the new \"Practice\" mode\n• Save anything you're not sure about and practice it all in one place\n• Pro users get a new Cloud Library, with new topics added regularly",
+    "ja": "ChunksEnglishが「練習」の時代へ！しっかり練習して、英語力をぐんぐん伸ばそう！\n\n• すべてのトピックと単語を「練習」で思い出せます\n• 苦手な内容は別途保存して、まとめて練習できます\n• Proユーザー向けにクラウドライブラリを追加、新トピックを随時更新",
+    "ko": "ChunksEnglish, 본격적인 연습 시대가 열렸어요! 꾸준히 연습하고 영어 실력을 쑥쑥 키워보세요!\n\n• 모든 주제와 단어를 '연습'으로 다시 떠올릴 수 있어요\n• 익숙하지 않은 내용은 따로 저장해 집중 연습할 수 있어요\n• Pro 사용자에게 클라우드 라이브러리 추가, 새 주제가 계속 업데이트돼요"
   }
 }
