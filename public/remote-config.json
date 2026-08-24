@@ -2,13 +2,13 @@
   "min_version": "1.0.0",
   "ios_min_version": "2.0.0",
   "android_min_version": "1.0.0",
-  "ios_latest_version": "2.0.0",
+  "ios_latest_version": "2.0.1",
   "android_latest_version": "1.0.0",
   "update_description": {
-    "zh-TW": "ChunksEnglish 正式迎來練習時代！好好練習，英文突飛猛進！\n\n• 所有主題、單字都能用「練習」來回想\n• 不熟悉的內容可以另外收藏，集中練習\n• Pro 用戶新增雲端圖書館，新主題持續更新",
-    "zh-CN": "ChunksEnglish 正式迎来练习时代！好好练习，英文突飞猛进！\n\n• 所有主题、单词都能用“练习”来回想\n• 不熟悉的内容可以另外收藏，集中练习\n• Pro 用户新增云端图书馆，新主题持续更新",
-    "en": "ChunksEnglish enters the Practice era! Practice well and watch your English take off!\n\n• Recall every topic and word with the new \"Practice\" mode\n• Save anything you're not sure about and practice it all in one place\n• Pro users get a new Cloud Library, with new topics added regularly",
-    "ja": "ChunksEnglishが「練習」の時代へ！しっかり練習して、英語力をぐんぐん伸ばそう！\n\n• すべてのトピックと単語を「練習」で思い出せます\n• 苦手な内容は別途保存して、まとめて練習できます\n• Proユーザー向けにクラウドライブラリを追加、新トピックを随時更新",
-    "ko": "ChunksEnglish, 본격적인 연습 시대가 열렸어요! 꾸준히 연습하고 영어 실력을 쑥쑥 키워보세요!\n\n• 모든 주제와 단어를 '연습'으로 다시 떠올릴 수 있어요\n• 익숙하지 않은 내용은 따로 저장해 집중 연습할 수 있어요\n• Pro 사용자에게 클라우드 라이브러리 추가, 새 주제가 계속 업데이트돼요"
+    "zh-TW": "• 加入「考試」主題：新增托福、多益、高中單字\n• 雲端圖書館新增：護理相關英文、交通安全單字\n• 加入「阿塊圖鑑」，歡迎收藏阿塊家族卡牌",
+    "zh-CN": "• 加入“考试”主题：新增托福、托业、高中单词\n• 云端图书馆新增：护理相关英文、交通安全单词\n• 加入“阿块图鉴”，欢迎收藏阿块家族卡牌",
+    "en": "• New \"Exams\" theme: TOEFL, TOEIC, and high school vocabulary\n• New in the Cloud Library: nursing English and traffic safety vocabulary\n• Introducing the \"Akua Family\" collection — collect the whole family's cards!",
+    "ja": "• 「試験」トピックを追加：TOEFL・TOEIC・高校英単語\n• クラウドライブラリに追加：看護関連の英語、交通安全の単語\n• 「アクア図鑑」が登場！アクアファミリーのカードを集めよう",
+    "ko": "• '시험' 주제 추가: 토플, 토익, 고등학교 단어\n• 클라우드 라이브러리 추가: 간호 관련 영어, 교통안전 단어\n• '아쿠아 도감' 추가! 아쿠아 가족 카드를 모아보세요"
   }
 }
