@@ -2,13 +2,13 @@
   "min_version": "1.0.0",
   "ios_min_version": "2.0.0",
   "android_min_version": "1.0.0",
-  "ios_latest_version": "2.0.1",
+  "ios_latest_version": "2.0.2",
   "android_latest_version": "1.0.0",
   "update_description": {
-    "zh-TW": "• 加入「考試」主題：新增托福、多益、高中單字\n• 雲端圖書館新增：護理相關英文、交通安全單字\n• 加入「阿塊圖鑑」，歡迎收藏阿塊家族卡牌",
-    "zh-CN": "• 加入“考试”主题：新增托福、托业、高中单词\n• 云端图书馆新增：护理相关英文、交通安全单词\n• 加入“阿块图鉴”，欢迎收藏阿块家族卡牌",
-    "en": "• New \"Exams\" theme: TOEFL, TOEIC, and high school vocabulary\n• New in the Cloud Library: nursing English and traffic safety vocabulary\n• Introducing the \"Akua Family\" collection — collect the whole family's cards!",
-    "ja": "• 「試験」トピックを追加：TOEFL・TOEIC・高校英単語\n• クラウドライブラリに追加：看護関連の英語、交通安全の単語\n• 「アクア図鑑」が登場！アクアファミリーのカードを集めよう",
-    "ko": "• '시험' 주제 추가: 토플, 토익, 고등학교 단어\n• 클라우드 라이브러리 추가: 간호 관련 영어, 교통안전 단어\n• '아쿠아 도감' 추가! 아쿠아 가족 카드를 모아보세요"
+    "zh-TW": "• 雲端圖書館新增多個單字主題（運動）\n• 新增雲端免費多益考試單字\n• 「阿塊圖鑑」體驗優化",
+    "zh-CN": "• 云端图书馆新增多个单词主题（运动）\n• 新增云端免费托业考试单词\n• “阿块图鉴”体验优化",
+    "en": "• New vocabulary topics in the Cloud Library (Sports)\n• Added free TOEIC exam vocabulary in the cloud\n• Improved the \"Akua Family\" collection experience",
+    "ja": "• クラウドライブラリに新しい単語トピックを追加（スポーツ）\n• クラウドで無料のTOEIC試験単語を追加\n• 「アクア図鑑」の体験を改善",
+    "ko": "• 클라우드 라이브러리에 새로운 단어 주제 추가 (스포츠)\n• 클라우드 무료 토익 시험 단어 추가\n• '아쿠아 도감' 사용 경험 개선"
   }
 }
