@@ -2,13 +2,13 @@
   "min_version": "1.0.0",
   "ios_min_version": "2.0.0",
   "android_min_version": "1.0.0",
-  "ios_latest_version": "2.0.5",
+  "ios_latest_version": "2.1.6",
   "android_latest_version": "1.0.0",
   "update_description": {
-    "zh-TW": "• 雲端圖書館新增多個單字主題（運動、牙醫助理）\n• 體驗優化與問題修正",
-    "zh-CN": "• 云端图书馆新增多个单词主题（运动、牙医助理）\n• 体验优化与问题修正",
-    "en": "• New vocabulary topics in the Cloud Library (Sports, Dental Assistant)\n• Experience improvements and bug fixes",
-    "ja": "• クラウドライブラリに新しい単語トピックを追加（スポーツ、歯科助手）\n• 体験の改善と不具合の修正",
-    "ko": "• 클라우드 라이브러리에 새로운 단어 주제 추가 (스포츠, 치과 조무사)\n• 사용 경험 개선 및 오류 수정"
+    "zh-TW": "• 複習提醒：可自訂通知時間\n• 新增主畫面小工具：每日英文句子（長按可切換）",
+    "zh-CN": "• 复习提醒：可自定义通知时间\n• 新增主屏幕小组件：每日英文句子（长按可切换）",
+    "en": "• Review reminders: set your own notification time\n• New Home Screen widget: Daily English Sentence (long-press to switch)",
+    "ja": "• 復習リマインダー：通知時間を自由に設定できるように\n• 新しいホーム画面ウィジェット：毎日の英文（長押しで切り替え）",
+    "ko": "• 복습 알림: 알림 시간을 직접 설정할 수 있어요\n• 새로운 홈 화면 위젯: 오늘의 영어 문장 (길게 눌러 전환)"
   }
 }
