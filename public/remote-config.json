@@ -2,13 +2,13 @@
   "min_version": "1.0.0",
   "ios_min_version": "2.0.0",
   "android_min_version": "1.0.0",
-  "ios_latest_version": "2.1.6",
+  "ios_latest_version": "2.2.0",
   "android_latest_version": "1.0.0",
   "update_description": {
-    "zh-TW": "• 複習提醒：可自訂通知時間\n• 新增主畫面小工具：每日英文句子（長按可切換）",
-    "zh-CN": "• 复习提醒：可自定义通知时间\n• 新增主屏幕小组件：每日英文句子（长按可切换）",
-    "en": "• Review reminders: set your own notification time\n• New Home Screen widget: Daily English Sentence (long-press to switch)",
-    "ja": "• 復習リマインダー：通知時間を自由に設定できるように\n• 新しいホーム画面ウィジェット：毎日の英文（長押しで切り替え）",
-    "ko": "• 복습 알림: 알림 시간을 직접 설정할 수 있어요\n• 새로운 홈 화면 위젯: 오늘의 영어 문장 (길게 눌러 전환)"
+    "zh-TW": "• 新增「記憶學習曲線」練習法，阿塊會提醒你複習\n• 雲端圖書館新增單字主題（做菜、看醫生）",
+    "zh-CN": "• 新增「记忆学习曲线」练习法，阿块会提醒你复习\n• 云端图书馆新增单词主题（做菜、看医生）",
+    "en": "• New Memory Curve practice: Chunky will remind you when it's time to review\n• New vocabulary topics in the Cloud Library (Cooking, Seeing a Doctor)",
+    "ja": "• 新しい「記憶曲線」練習法：復習のタイミングをChunkyがお知らせ\n• クラウドライブラリに新しい単語トピックを追加（料理、病院へ行く）",
+    "ko": "• 새로운 '기억 곡선' 연습법: 복습할 때가 되면 Chunky가 알려줘요\n• 클라우드 라이브러리에 새로운 단어 주제 추가 (요리, 병원 가기)"
   }
 }
