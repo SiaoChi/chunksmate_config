@@ -2,13 +2,13 @@
   "min_version": "1.0.0",
   "ios_min_version": "2.0.0",
   "android_min_version": "1.0.0",
-  "ios_latest_version": "2.2.0",
+  "ios_latest_version": "3.0.0",
   "android_latest_version": "1.0.0",
   "update_description": {
-    "zh-TW": "• 新增「記憶學習曲線」練習法，阿塊會提醒你複習\n• 雲端圖書館新增單字主題（做菜、看醫生）",
-    "zh-CN": "• 新增「记忆学习曲线」练习法，阿块会提醒你复习\n• 云端图书馆新增单词主题（做菜、看医生）",
-    "en": "• New Memory Curve practice: Chunky will remind you when it's time to review\n• New vocabulary topics in the Cloud Library (Cooking, Seeing a Doctor)",
-    "ja": "• 新しい「記憶曲線」練習法：復習のタイミングをChunkyがお知らせ\n• クラウドライブラリに新しい単語トピックを追加（料理、病院へ行く）",
-    "ko": "• 새로운 '기억 곡선' 연습법: 복습할 때가 되면 Chunky가 알려줘요\n• 클라우드 라이브러리에 새로운 단어 주제 추가 (요리, 병원 가기)"
+    "zh-TW": "• 新增「語音日記」：用英文說說今天，阿塊幫你改句子、挑出好用的語塊\n• 換手機也不怕：新增匯出／匯入備份\n• 修正朗讀聲音變成手機內建語音的問題",
+    "zh-CN": "• 新增「语音日记」：用英文说说今天，阿块帮你改句子、挑出好用的语块\n• 换手机也不怕：新增导出／导入备份\n• 修正朗读声音变成手机内置语音的问题",
+    "en": "• New Voice Diary: talk about your day in English, and Chunky fixes your sentences and picks useful chunks\n• New Export / Import Backup for switching phones\n• Fixed read-aloud falling back to the phone's built-in voice",
+    "ja": "• 新機能「音声日記」：英語で今日のことを話すと、Chunkyが文を直して使えるチャンクを選んでくれます\n• 機種変更も安心：バックアップのエクスポート／インポートに対応\n• 読み上げ音声が端末の標準音声になる問題を修正",
+    "ko": "• 새 기능 '음성 일기': 영어로 오늘 이야기를 하면 Chunky가 문장을 고쳐 주고 유용한 청크를 골라 줘요\n• 휴대폰을 바꿔도 걱정 없어요: 백업 내보내기/가져오기 추가\n• 읽어 주기 음성이 휴대폰 기본 음성으로 바뀌던 문제 수정"
   }
 }
