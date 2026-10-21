@@ -2,13 +2,13 @@
   "min_version": "1.0.0",
   "ios_min_version": "2.0.0",
   "android_min_version": "1.0.0",
-  "ios_latest_version": "3.0.0",
+  "ios_latest_version": "3.1.0",
   "android_latest_version": "1.0.0",
   "update_description": {
-    "zh-TW": "• 新增「語音日記」：用英文說說今天，阿塊幫你改日記、陪你學習\n• Pro 每天都能錄一篇，免費版也有試用額度\n• 換手機也不怕：新增匯出／匯入備份",
-    "zh-CN": "• 新增「语音日记」：用英文说说今天，阿块帮你改日记、陪你学习\n• Pro 每天都能录一篇，免费版也有试用额度\n• 换手机也不怕：新增导出／导入备份",
-    "en": "• New Voice Diary: talk about your day in English, and Chunky corrects your diary and learns alongside you\n• Pro members can record one entry every day, and free users get a free trial too\n• New Export / Import Backup for switching phones",
-    "ja": "• 新機能「音声日記」：英語で今日のことを話すと、Chunkyが日記を添削して一緒に学んでくれます\n• Proなら毎日1本録音できます。無料版でもお試し回数あり\n• 機種変更も安心：バックアップのエクスポート／インポートに対応",
-    "ko": "• 새 기능 '음성 일기': 영어로 오늘 이야기를 하면 Chunky가 일기를 고쳐 주고 함께 공부해요\n• Pro는 매일 한 편씩 녹음할 수 있고, 무료 버전도 체험 횟수가 있어요\n• 휴대폰을 바꿔도 걱정 없어요: 백업 내보내기/가져오기 추가"
+    "zh-TW": "• 語音日記次數增加：免費版可以試錄 3 篇，Pro 每天可以錄 2 篇\n• 首頁上方改顯示今天還能寫幾篇日記",
+    "zh-CN": "• 语音日记次数增加：免费版可以试录 3 篇，Pro 每天可以录 2 篇\n• 首页上方改显示今天还能写几篇日记",
+    "en": "• More Voice Diary entries: free users can try 3 entries, and Pro members can record 2 every day\n• The top of the home screen now shows how many diary entries you have left today",
+    "ja": "• 音声日記の回数が増えました：無料版は3本までお試し、Proは毎日2本録音できます\n• ホーム上部に今日あと何本日記を書けるかを表示",
+    "ko": "• 음성 일기 횟수가 늘었어요: 무료 버전은 3편까지 체험, Pro는 매일 2편 녹음할 수 있어요\n• 홈 화면 위쪽에 오늘 남은 일기 횟수를 보여 줘요"
   }
 }
