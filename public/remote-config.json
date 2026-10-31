@@ -2,13 +2,13 @@
   "min_version": "1.0.0",
   "ios_min_version": "2.0.0",
   "android_min_version": "1.0.0",
-  "ios_latest_version": "3.1.0",
+  "ios_latest_version": "3.2.1",
   "android_latest_version": "1.0.0",
   "update_description": {
-    "zh-TW": "• 語音日記次數增加：免費版可以試錄 3 篇，Pro 每天可以錄 2 篇\n• 首頁上方改顯示今天還能寫幾篇日記",
-    "zh-CN": "• 语音日记次数增加：免费版可以试录 3 篇，Pro 每天可以录 2 篇\n• 首页上方改显示今天还能写几篇日记",
-    "en": "• More Voice Diary entries: free users can try 3 entries, and Pro members can record 2 every day\n• The top of the home screen now shows how many diary entries you have left today",
-    "ja": "• 音声日記の回数が増えました：無料版は3本までお試し、Proは毎日2本録音できます\n• ホーム上部に今日あと何本日記を書けるかを表示",
-    "ko": "• 음성 일기 횟수가 늘었어요: 무료 버전은 3편까지 체험, Pro는 매일 2편 녹음할 수 있어요\n• 홈 화면 위쪽에 오늘 남은 일기 횟수를 보여 줘요"
+    "zh-TW": "• 深色模式會記住了，重新打開 App 不再跳回亮色",
+    "zh-CN": "• 深色模式会记住了，重新打开 App 不再跳回亮色",
+    "en": "• Dark mode is now remembered — the app no longer switches back to light mode when reopened",
+    "ja": "• ダークモードの設定が保存され、アプリを開き直してもライトモードに戻らなくなりました",
+    "ko": "• 다크 모드가 기억돼요. 앱을 다시 열어도 라이트 모드로 돌아가지 않아요"
   }
 }
